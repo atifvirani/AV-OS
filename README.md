@@ -52,11 +52,7 @@ App Drawer
 
 Search
 
-(Add Screenshot Here)
 
-(Add Screenshot Here)
-
-(Add Screenshot Here)
 
 ⚙️ Installation & Build
 
