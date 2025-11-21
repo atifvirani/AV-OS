@@ -54,6 +54,9 @@ Search
 
 
 
+
+
+
 ⚙️ Installation & Build
 
 To build this project locally, you will need Node.js and Android Studio installed.
